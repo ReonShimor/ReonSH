@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ReonSH
-- 👀 I’m interested in creating LOWStrike in Unity.
+- 👋 Hi, I’m @ReonShimor
+- 👀 I’m interested in creating games in Unity.
