@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @ReonShimor
-- 👀 I’m interested in creating projects for VRChat and Rec Room.
+
